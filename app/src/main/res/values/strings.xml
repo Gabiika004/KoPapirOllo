@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KoPapirOllo</string>
+    <string name="result_message">Eredmény: Ember 0 - Computer 0</string>
+    <string name="player_text">Játékos</string>
+    <string name="computer_text">Gép</string>
+    <string name="draws_text">Döntetlenek száma: </string>
+    <string name="player_choice_label">A te választásod</string>
+    <string name="computer_choice_label">A gép választása</string>
+</resources>
